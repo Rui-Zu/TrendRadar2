@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T14:22:00.788971+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2025-12-12T15:18:09.770058+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,17 @@
           "time_info": "[00时19分 ~ 11时18分]"
         },
         {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 15时18分]"
+        },
+        {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
           "source": "澎湃新闻",
@@ -34,17 +45,6 @@
           "time_info": "[00时19分 ~ 07时13分]"
         },
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 14时22分]"
-        },
-        {
           "title": "特朗普拉小群,想拿C5替代G7",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
           "source": "贴吧",
@@ -53,8 +53,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 15时18分]"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时18分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时18分]"
         },
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -110,28 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 14时22分]"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 14时22分]"
         },
         {
           "title": "泰国总理给特朗普“泼冷水”",
@@ -516,7 +517,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -745,19 +746,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 14时22分]"
-        },
-        {
-          "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
-          "url": "https://wallstreetcn.com/livenews/3019450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 15时18分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -769,8 +759,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 14时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时18分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -780,8 +770,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 15时18分]"
+        },
+        {
+          "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
+          "url": "https://wallstreetcn.com/livenews/3019450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -1025,8 +1026,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时13分 ~ 14时22分]"
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 15时18分]"
         },
         {
           "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
@@ -1233,8 +1234,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 14时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时18分]"
         },
         {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
